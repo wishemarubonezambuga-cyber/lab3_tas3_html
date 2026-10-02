@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Walter Ishema</title>
+</head>
+<body>
+
+<!--First Section -->
+<div style="background-color:yellow;">
+
+<h2>Section 1</h2>
+
+<img src="https://www.worldanimalprotection.ca/cdn-cgi/image/width=1280,format=auto/siteassets/shutterstock_1313461523.jpg"
+alt="Fish"
+style=width:200px;height:150px;">
+
+<br><br>
+
+<a href="https://www.canada.ca">Canada</a>
+
+</div>
+
+<!-- Second Section -->
+<div>
+
+<h2>Section 2</h2>
+
+<!-- Alert message with three different colors -->
+<p>
+
+<span style="color:red;">My name is Walter.</span>
+<span style="color:green;"> I live in Vancouver.</span>
+<span style="color:blue;"> I'm from Rwanda, East Africa.</span>
+</p>
+
+<!-- 3 columns and 2 rows -->
+<table border="2" style="width:100%;>
+
+<tr>
+
+<!--[ 3 columns and 2 rows -->
+<table border="2" style="width:100%;">
+
+<tr>
+
+<!-- Column 1, Cell 1: Subdcript -->
+<td>H<sub>2<sub>0</td>
+
+
+<!-- Column 2, Cell 1: My image -->
+<td>
+<img src="me.jpg"
+alt="My image"
+style="width:100px;height:100px;">
+</td>
+
+<!-- Column 3. Cell 1 -->
+<td></td>
+
+</tr>
+
+<tr>
+
+<!-- Column 1, Cell 2:Bold -->
+<td><b>Walter Ishema</b></td>
+
+<!-- Column 2, Cell 2 -->
+<td><td>
+
+<!-- Column 3,Cell 2: World Cup Soccer -->
+<td>World Cup Soccer</td>
+</tr>
+
+</table>
+
+</div>
+
+
+
+
+</body>
+</html>
